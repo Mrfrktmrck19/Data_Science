@@ -1,0 +1,9 @@
+~directory'ler arası gezinme -> cd blabla | cd.. | cd\ (c diskine yerleştirir)
+~directory yaratma -> mkdir <dosya_adi> (boşluk karakteri içeriyorsa "" arasına yaz)
+~dosya yaratma -> echo $null >> first_app.py ($null, dosyanın içerisini boş yaratır)
+~directory altındaki dosya/klasörleri görme -> ls | dir
+~vs code ile projeyi terminalden açmak için: projenin bulunduğu dizine terminalden gidip "code ."
+komutunu gir.
+~dosya silme -> del <file_name>
+~klasör silme -> rmdir <directory_name>
+~python dosyası çalıştırma -> python first_app.py | py first_app.py
