@@ -7,3 +7,4 @@ komutunu gir.
 ~dosya silme -> del <file_name>
 ~klasör silme -> rmdir <directory_name>
 ~python dosyası çalıştırma -> python first_app.py | py first_app.py
+~terminal ekranında programdan çıkmak için ctrl+c kullan.
