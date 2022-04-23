@@ -1,2 +1,2 @@
-# Deep_Learning_Notes
-My own notes about DL
+# Data Science
+My own notes about Data Science
